@@ -28,7 +28,7 @@ labels.orient_person_combo: Combined identity + orientation label
 🔬 Neural Spike Data (802 columns)
 time.1_2 to time.800_801: Binary indicators of neuron spike (1 = spike, 0 = no spike)
 Each column represents a 1 ms time bin of activity for that trial.
-🔮 Prediction Task 2: Total Spike Count
+ Prediction Task 2: Total Spike Count
 
 Objective: Predict the total number of spikes across all neurons in a trial.
 Input: Face identity + head orientation.
