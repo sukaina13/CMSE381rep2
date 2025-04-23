@@ -14,7 +14,7 @@ Classification Task: Classification Goal: Predict which of the 25 face identitie
 
 The Freiwald Tsao Face Views AM dataset contains neural recordings from the anterior medial (AM) face patch—a region of the macaque brain that becomes active when viewing faces.
 
-🧠 Data Overview
+ Data Overview
 Neural Activity: Spike train data recorded at 1 ms resolution across 800 ms trials.
 Stimuli: 25 unique face identities, each shown from 8 head orientations.
 Purpose: Decode face identity and head orientation using neural activity.
